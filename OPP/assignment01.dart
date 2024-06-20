@@ -16,6 +16,9 @@ class car{
     numberOfCars++;
   }
 
+  drive(double miles){
+    this.milesDriven=miles;
+  }
 
   double getMilesDriven(){
     return milesDriven;
