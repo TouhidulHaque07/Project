@@ -28,9 +28,9 @@ class car{
     return brand;
   }
 
-  String getModel(){
-    return model;
-  }
+  //String getModel(){
+   // return model;
+  //}
 
   int getYear(){
     return year;
